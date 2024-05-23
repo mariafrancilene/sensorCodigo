@@ -1,0 +1,27 @@
+body {
+    background-image: url("./img/img.png");
+    padding: 0;
+    margin: 0;
+    text-align: center; /* Center text within body */
+}
+
+.background-image {
+    /* Adjust padding according to your design needs */
+    padding: 20px; 
+    /* Ensure the background image covers the entire element */
+    background-size: cover; 
+    /* Center the background image */
+    background-position: center; 
+}
+
+.contagem {
+    background: white;
+    color: black;
+    width: 200px; /* Adjust width as needed */
+    height: 150px; /* Adjust height as needed */
+    margin: auto; /* Center horizontally */
+    margin-top: 50px; /* Add space from top */
+    border-radius: 6px;
+    border: 2px solid black;
+    
+}
